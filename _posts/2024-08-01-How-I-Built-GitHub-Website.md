@@ -34,7 +34,7 @@ When you create a new Jekyll site, it comes with a standard folder structure. Un
 
 ### Configuring _config.yml
 
-The `_config.yml` file is where you control most of your site’s settings. Here’s a basic configuration setup I used for JPHENRI.COM:
+The _config.yml file is where you control most of your site’s settings. Here’s a basic configuration setup I used for JPHENRI.COM:
 
 ```yaml
 title: "JPHENRI.COM"
