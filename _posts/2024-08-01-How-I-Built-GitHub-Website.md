@@ -1,7 +1,7 @@
 # How I Built JPHENRI.COM Using GitHub Pages, Jekyll, and ChatGPT
 
 Welcome to JPHENRI.COM! I’m excited to share the story of how I created this website using **GitHub**, GitHub Pages, Jekyll, and the Minima theme, with a little help from ChatGPT. If you’re interested in setting up your own site or want to learn more about these tools, this blog post will walk you through the process step by step.
-
+```yaml
 ## Getting Started with GitHub Pages
 
 **GitHub Pages** is a free service provided by GitHub that lets you host websites directly from a GitHub repository. It’s perfect for personal projects, portfolios, or even blogs like this one. Here’s how I got started:
@@ -138,4 +138,5 @@ Building JPHENRI.COM has been a rewarding experience that allowed me to combine 
 If you’re thinking about creating your own website, I highly recommend giving these tools a try. They’re powerful, flexible, and—best of all—free to use.
 
 Thanks for reading! If you have any questions or want to learn more, feel free to reach out.
-
+```
+``
