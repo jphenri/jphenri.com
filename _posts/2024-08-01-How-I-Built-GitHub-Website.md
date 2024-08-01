@@ -1,6 +1,4 @@
-To include the blog post content in a Markdown file, you can use the following code. This code contains the necessary formatting to make the post look good when rendered by Jekyll or another Markdown processor.
 
-```markdown
 # How I Built JPHENRI.COM Using GitHub Pages, Jekyll, and ChatGPT
 
 Welcome to JPHENRI.COM! I’m excited to share the story of how I created this website using **GitHub**, GitHub Pages, Jekyll, and the Minima theme, with a little help from ChatGPT. If you’re interested in setting up your own site or want to learn more about these tools, this blog post will walk you through the process step by step.
@@ -142,5 +140,3 @@ If you’re thinking about creating your own website, I highly recommend giving 
 
 Thanks for reading! If you have any questions or want to learn more, feel free to reach out.
 ```
-
-You can paste this content directly into a Markdown file to create the blog post for your Jekyll site.
