@@ -32,7 +32,7 @@ When you create a new Jekyll site, it comes with a standard folder structure. Un
 - **assets/**: This folder holds your site’s assets like images, CSS, and JavaScript files.
 - **index.md**: This is your site’s homepage. You can edit this Markdown file to customize the content of your home page.
 
-### Configuring `_config.yml`
+### Configuring _config.yml
 
 The `_config.yml` file is where you control most of your site’s settings. Here’s a basic configuration setup I used for JPHENRI.COM:
 
