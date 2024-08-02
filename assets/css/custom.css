@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'FiraCodeNerdFont';
+    src: url('https://github.com/ryanoasis/nerd-fonts/raw/a2697b0fefe5e8d946c18a167a9496c6f224d7c9/patched-fonts/FiraCode/Regular/FiraCodeNerdFont-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Apply the Nerd Font */
+body {
+    font-family: 'FiraCodeNerdFont', sans-serif;
+}
+
+/* Apply the Nerd Font to specific elements */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'FiraCodeNerdFont', sans-serif;
+}
