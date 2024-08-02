@@ -19,3 +19,31 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-title:visited  {
     font-family: 'BigBlueTerm437', sans-serif;
     color: limegreen;
 }
+
+/* typing */
+  body {
+    
+    font-size: 2em;
+    color: #333;
+    text-align: center;
+    margin-top: 20vh;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 0.15em solid orange; /* The cursor */
+  }
+
+  p {
+    display: inline-block;
+    animation: typing 4s steps(50, end), blink-caret 0.75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: orange; }
+  }
