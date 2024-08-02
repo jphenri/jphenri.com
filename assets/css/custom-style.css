@@ -21,10 +21,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-title:visited  {
 }
 
 /* typing */
-  p {
-    
-    font-size: 2em;
-    color: #333;
+  .site-title {
     text-align: center;
     margin-top: 20vh;
     width: 100%;
@@ -33,7 +30,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-title:visited  {
     border-right: 0.15em solid orange; /* The cursor */
   }
 
-  p {
+  .site-title {
     display: inline-block;
     animation: typing 4s steps(50, end), blink-caret 0.75s step-end infinite;
   }
