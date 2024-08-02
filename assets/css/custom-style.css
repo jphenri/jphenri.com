@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-title:visited  {
     border-right: 0.15em solid orange; /* The cursor */
   }
 
-  .typed-text {
+  .site-title {
     display: inline-block;
     animation: typing 4s steps(50, end), blink-caret 0.75s step-end infinite;
   }
