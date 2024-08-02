@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-title:visited  {
 
 /* typing */
   .site-title {
-    text-align: center;
+    
     margin-top: 20vh;
     width: 100%;
     white-space: nowrap;
@@ -32,12 +32,13 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-title:visited  {
 
   .site-title {
     display: inline-block;
-    animation: typing 4s steps(50, end), blink-caret 0.75s step-end infinite;
+    animation: typing 4s steps(7, end), blink-caret 0.75s step-end infinite;
   }
 
   @keyframes typing {
     from { width: 0; }
-    to { width: 100%; }
+    to     { width: 7ch; } /* Limit to 7 characters */
+
   }
 
   @keyframes blink-caret {
