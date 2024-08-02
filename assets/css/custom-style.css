@@ -21,13 +21,19 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-title:visited  {
 }
 
 /* typing */
-  .site-title {
-    
+
+    .site-title {
+
     margin-top: 20vh;
-    width: 7ch; /* Width to fit 7 characters */
+    width: 100%;
     white-space: nowrap;
     overflow: hidden;
     border-right: 0.15em solid orange; /* The cursor */
+  }
+
+  .site-title {
+    display: inline-block;
+    animation: typing 4s steps(50, end), blink-caret 0.75s step-end infinite;
   }
 
   .site-title {
