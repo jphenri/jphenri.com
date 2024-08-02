@@ -8,7 +8,7 @@ I’m a passionate tech geek. This site serves as a portfolio of my ongoing and 
 ## Projects
 
 ### [ChezGerry1958.com](https://chezgerry1958.com)
-[ChezGerry1958.com](https://chezgerry1958.com) is a site dedicated to shoe restoration services with a focus on flat welted soles. The project involved setting up a user-friendly interface, optimizing the site for search engines, and implementing secure payment gateways.
+Chez Gerry 1958 is a site dedicated to shoe restoration services with a focus on flat welted soles. The project involved setting up a user-friendly interface, optimizing the site for search engines, and implementing secure payment gateways.
 
 #### Key Features:
 - **User Interface**: Designed a clean and intuitive interface for easy navigation.
