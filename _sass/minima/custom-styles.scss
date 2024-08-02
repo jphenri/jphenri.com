@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'FiraCodeNerdFont';
-    src: url('https://github.com/ryanoasis/nerd-fonts/raw/a2697b0fefe5e8d946c18a167a9496c6f224d7c9/patched-fonts/FiraCode/Regular/FiraCodeNerdFont-Regular.ttf') format('truetype');
+    src: url('https://github.com/ryanoasis/nerd-fonts/blob/a2697b0fefe5e8d946c18a167a9496c6f224d7c9/patched-fonts/BigBlueTerminal/BigBlueTerm437NerdFont-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 /* Apply the Nerd Font */
 body {
-    font-family: 'FiraCodeNerdFont', sans-serif;
+    font-family: 'BigBlueTerm437NerdFont-Regular', sans-serif;
 }
 
 /* Apply the Nerd Font to specific elements */
