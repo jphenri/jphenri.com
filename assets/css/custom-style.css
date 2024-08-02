@@ -15,7 +15,7 @@ body {
 }
 
 /* Apply the Nerd Font to specific elements */
-h1, h2, h3, h4, h5, h6, site-title {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'BigBlueTerm437', sans-serif;
     color: limegreen;
 }
