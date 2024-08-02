@@ -18,7 +18,7 @@ Chez Gerry 1958 is a site dedicated to shoe restoration services with a focus on
 ### [Pronatureqc.com (2015-2018)](https://web.archive.org/web/20171012223444/https://www.pronatureqc.com/)
 Pronatureqc.com is an e-commerce platform that I developed and optimized for the sale of outdoor and hunting products. The project involved building a robust online store, enhancing the site’s search engine ranking, and managing content to align with the brand’s messaging.
 
-**Key Features:**
+#### Key Features:
 - **E-Commerce Development**: Built a comprehensive e-commerce platform with integrated payment and inventory systems.
 - **SEO Optimization**: Implemented effective SEO strategies to boost search engine rankings and drive traffic.
 - **Content Management**: Regularly updated content to keep it relevant and engaging for customers.
@@ -28,7 +28,7 @@ This project provided me with valuable experience in e-commerce development, SEO
 ### [Assystech SENC (2015-2019)](https://web.archive.org/web/20181229095915/https://assystech.com/)
 Assystech SENC was an IT consulting and web development project where I provided comprehensive technical solutions to various small and medium-sized businesses. The project included enhancing IT infrastructure, developing custom websites, and delivering ongoing technical support.
 
-**Key Features:**
+#### Key Features:
 - **IT Consultation**: Offered strategic IT consulting to improve business efficiency.
 - **Web Development**: Created and maintained custom websites tailored to client needs.
 - **Technical Support**: Provided continuous technical support to ensure client satisfaction.
