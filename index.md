@@ -4,7 +4,7 @@ Welcome to JPHENRI.COM! I'm JP and this is my website where I showcase various p
 ## About Me
 I'm an IT professional and project lead with a good background in systems management. Over the years, I’ve taken the helm of numerous projects, coordinating the deployment and management of complete computer fleets across Canada.
 
-I’m passionate about staying ahead of the curve with the latest in AI, cybersecurity and Linux advancements. My goal is to continually learn in my field
+I’m passionate about staying ahead of the curve with the latest in AI, cybersecurity and Linux advancements. My goal is to continually learn in my field.
 
 ## Projects
 
