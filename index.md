@@ -4,10 +4,7 @@ Welcome to JPHENRI.COM! I'm JP and this is my personal website where I showcase 
 ## About Me
 I'm an experienced IT professional and project lead with a deep background in systems management, specifically using SCCM and Intune tools for patching, deployment, and provisioning. Over the years, I’ve taken the helm of numerous projects, coordinating the deployment and management of complete computer fleets across Canada, including networking devices for offices with unique challenges and limitations, such as varying ISPs.
 
-My role has often placed me at the intersection of technology and logistics, ensuring that large-scale IT deployments are executed smoothly and efficiently, no matter the constraints. I’ve led teams through complex scenarios, from provisioning new systems to ensuring secure and consistent patching processes, all while maintaining seamless operations across geographically dispersed locations. 
-
 Outside of project management and technical execution, I’m passionate about staying ahead of the curve with the latest in cybersecurity and Linux advancements, continually enhancing my skills to meet the ever-evolving demands of the industry. Whether managing intricate deployments or optimizing IT infrastructures, my goal is always to leverage technology in a way that drives success and innovation. 
-
 
 ## Projects
 
