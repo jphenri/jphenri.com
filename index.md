@@ -1,10 +1,10 @@
 
-Welcome to JPHENRI.COM! I'm JP and this is my personal website where I showcase various personal IT projects I'm working on. Below you’ll find details on some of the key projects.
+Welcome to JPHENRI.COM! I'm JP and this is my website where I showcase various personal IT projects I'm working on. Below you’ll find details on some of the key projects.
 
 ## About Me
-I'm an experienced IT professional and project lead with a good background in systems management. Over the years, I’ve taken the helm of numerous projects, coordinating the deployment and management of complete computer fleets across Canada.
+I'm an IT professional and project lead with a good background in systems management. Over the years, I’ve taken the helm of numerous projects, coordinating the deployment and management of complete computer fleets across Canada.
 
-Outside of project management and technical execution, I’m passionate about staying ahead of the curve with the latest in AI, cybersecurity and Linux advancements. Whether managing deployments or optimizing IT infrastructures, my goal is always to leverage technology in a way that drives success and innovation. 
+I’m passionate about staying ahead of the curve with the latest in AI, cybersecurity and Linux advancements. My goal is to continually learn in my field
 
 ## Projects
 
@@ -27,12 +27,11 @@ Pronatureqc.com is an e-commerce platform that I developed and optimized for the
 This project provided me with valuable experience in e-commerce development, SEO, and content management.
 
 ### [Assystech SENC (2015-2019)](https://web.archive.org/web/20181229095915/https://assystech.com/)
-Assystech SENC was an IT consulting and web development project where I provided comprehensive technical solutions to various small and medium-sized businesses. The project included enhancing IT infrastructure, developing custom websites, and delivering ongoing technical support.
+Assystech SENC was an IT consulting and web development project that I owned with a partner where I provided comprehensive technical solutions to various small and medium-sized businesses. The project included enhancing IT infrastructure, developing custom websites, and delivering ongoing technical support.
 
 #### Key Features:
 - **IT Consultation**: Offered strategic IT consulting to improve business efficiency.
 - **Web Development**: Created and maintained custom websites tailored to client needs.
 - **Technical Support**: Provided continuous technical support to ensure client satisfaction.
 
-
-This experience allowed me to refine my skills in IT consulting, web development, and customer service.
+This experience allowed me to refine my skills in Business, IT consulting, web development, and customer service.
