@@ -1,6 +1,6 @@
 Welcome to JPHENRI.COM! I’m excited to share the story of how I created this website using **GitHub**, GitHub Pages, Jekyll, and the Minima theme, with a little help from ChatGPT. If you’re interested in setting up your own site or want to learn more about these tools, this blog post will walk you through the process step by step.
 
-## Getting Started with GitHub Pages
+## [Getting Started with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 **GitHub Pages** is a free service provided by GitHub that lets you host websites directly from a GitHub repository. It’s perfect for personal projects, portfolios, or even blogs like this one. Here’s how I got started:
 
@@ -12,7 +12,7 @@ The first step was to create a new repository on GitHub named `jphenri.github.io
 
 Next, I went to the repository settings and enabled GitHub Pages. I selected the `main` branch as the source, and just like that, my website was live on the internet. GitHub also offers a selection of pre-built themes, but I opted for more customization using Jekyll.
 
-## Using Jekyll for a Dynamic Website
+## [Using Jekyll for a Dynamic Website](https://jekyllrb.com/)
 
 Jekyll is a static site generator that’s perfect for creating blogs or project showcases. It works by converting Markdown files into a complete website.
 
@@ -31,7 +31,7 @@ When you create a new Jekyll site, it comes with a standard folder structure. Un
 
 ### Configuring _config.yml
 
-The _config.yml file is where you control most of your site’s settings. Here’s a basic configuration setup I used for JPHENRI.COM:
+The _config.yml file is where you control most of your site’s settings. Here’s a basic configuration setup I used for JPHENRI.COM using [minima theme](https://github.com/jekyll/minima):
 
 ```yaml
 title: "JPHENRI.COM"
@@ -63,7 +63,6 @@ kramdown:
 ```
 
 ## Cheat Sheet: Common _config.yml Settings
-
 Here’s a handy cheat sheet of common `_config.yml` settings that you can use to customize your Jekyll site:
 
 ```yaml
@@ -120,18 +119,21 @@ defaults:
 ```
 
 ## How GitHub and ChatGPT Played a Role
-
 Throughout the process, GitHub and ChatGPT were invaluable tools. Here’s how I used them:
 
-**Version Control with GitHub**: Using GitHub allowed me to keep track of all my changes and revert to previous versions if needed. It also made it easy to collaborate on the project if I ever wanted to work with others.
+#### Version Control with GitHub: 
+Using GitHub allowed me to keep track of all my changes and revert to previous versions if needed. It also made it easy to collaborate on the project if I ever wanted to work with others.
 
-**Content Creation with ChatGPT**: ChatGPT helped me structure and draft the content for my site, including this blog post. It provided suggestions for improving clarity and flow, making the writing process much smoother.
+#### Content Creation with ChatGPT:
+ChatGPT helped me structure and draft the content for my site, including this blog post. It provided suggestions for improving clarity and flow, making the writing process much smoother.
 
-**Troubleshooting**: When I ran into technical issues with Jekyll or GitHub Pages, I turned to ChatGPT for quick solutions. It was like having a knowledgeable assistant by my side, ready to help at any moment.
+#### Troubleshooting:
+When I ran into technical issues with Jekyll or GitHub Pages, I turned to ChatGPT for quick solutions. It was like having a knowledgeable assistant by my side, ready to help at any moment.
 
-**Customization Ideas**: ChatGPT also gave me ideas for customizing the Minima theme and making the site more visually appealing. This included suggestions for CSS tweaks and layout changes.
+#### Customization Ideas:
+ChatGPT also gave me ideas for customizing the Minima theme and making the site more visually appealing. This included suggestions for CSS tweaks and layout changes.
 
-Building JPHENRI.COM has been a rewarding experience that allowed me to combine my technical skills with creative design. Using GitHub, GitHub Pages, Jekyll, and the Minima theme made the process straightforward, while ChatGPT provided the support I needed to bring my vision to life.
+Building [JPHENRI.COM](https://jphenri.com) has been a rewarding experience that allowed me to combine my technical skills with creative design. Using GitHub, GitHub Pages, Jekyll, and the Minima theme made the process straightforward, while ChatGPT provided the support I needed to bring my vision to life.
 
 If you’re thinking about creating your own website, I highly recommend giving these tools a try. They’re powerful, flexible, and—best of all—free to use.
 
