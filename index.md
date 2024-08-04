@@ -1,10 +1,10 @@
 
-Welcome to JPHENRI.COM! I'm JP and this is my personal website where I showcase various IT projects I'm working on. Below you’ll find details on some of the key projects.
+Welcome to JPHENRI.COM! I'm JP and this is my personal website where I showcase various personal IT projects I'm working on. Below you’ll find details on some of the key projects.
 
 ## About Me
-I'm an experienced IT professional and project lead with a deep background in systems management, specifically using SCCM and Intune tools for patching, deployment, and provisioning. Over the years, I’ve taken the helm of numerous projects, coordinating the deployment and management of complete computer fleets across Canada, including networking devices for offices with unique challenges and limitations, such as varying ISPs.
+I'm an experienced IT professional and project lead with a good background in systems management. Over the years, I’ve taken the helm of numerous projects, coordinating the deployment and management of complete computer fleets across Canada.
 
-Outside of project management and technical execution, I’m passionate about staying ahead of the curve with the latest in cybersecurity and Linux advancements, continually enhancing my skills to meet the ever-evolving demands of the industry. Whether managing intricate deployments or optimizing IT infrastructures, my goal is always to leverage technology in a way that drives success and innovation. 
+Outside of project management and technical execution, I’m passionate about staying ahead of the curve with the latest in AI, cybersecurity and Linux advancements. Whether managing deployments or optimizing IT infrastructures, my goal is always to leverage technology in a way that drives success and innovation. 
 
 ## Projects
 
