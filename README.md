@@ -1,6 +1,3 @@
-It looks like you want to include the link to your GitHub repository in the `README.md` file. Here's the updated template:
-
-```markdown
 # JPHENRI.COM
 
 This repository contains the source code and configuration for the website [JPHENRI.COM](https://jphenri.com). The site was built using [Jekyll](https://jekyllrb.com/), a static site generator.
@@ -58,6 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Jekyll](https://jekyllrb.com/) - The static site generator used for this project.
 - [GitHub Pages](https://pages.github.com/) - The hosting platform for the website.
-```
-
-This template includes the link to your GitHub repository: `https://github.com/jphenri/website.git`.
