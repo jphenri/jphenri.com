@@ -1,22 +1,22 @@
 Welcome to JPHENRI.COM! I’m excited to share the story of how I created this website using **GitHub**, GitHub Pages, Jekyll, and the Minima theme, with a little help from ChatGPT. If you’re interested in setting up your own site or want to learn more about these tools, this blog post will walk you through the process step by step.
 
-## [Getting Started with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+### [Getting Started with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 **GitHub Pages** is a free service provided by GitHub that lets you host websites directly from a GitHub repository. It’s perfect for personal projects, portfolios, or even blogs like this one. Here’s how I got started:
 
-### Step 1: Creating the Repository on GitHub
+#### Step 1: Creating the Repository on GitHub
 
 The first step was to create a new repository on GitHub named `jphenri.github.io`. This naming convention is key because GitHub Pages automatically recognizes it as a personal website. After setting up the repository, I chose the `main` branch as the default.
 
-### Step 2: Enabling GitHub Pages
+#### Step 2: Enabling GitHub Pages
 
 Next, I went to the repository settings and enabled GitHub Pages. I selected the `main` branch as the source, and just like that, my website was live on the internet. GitHub also offers a selection of pre-built themes, but I opted for more customization using Jekyll.
 
-## [Using Jekyll for a Dynamic Website](https://jekyllrb.com/)
+### [Using Jekyll for a Dynamic Website](https://jekyllrb.com/)
 
 Jekyll is a static site generator that’s perfect for creating blogs or project showcases. It works by converting Markdown files into a complete website.
 
-### Jekyll Folder Structure
+#### Jekyll Folder Structure
 
 When you create a new Jekyll site, it comes with a standard folder structure. Understanding this structure is key to customizing your site.
 
@@ -29,7 +29,7 @@ When you create a new Jekyll site, it comes with a standard folder structure. Un
 - **assets/**: This folder holds your site’s assets like images, CSS, and JavaScript files.
 - **index.md**: This is your site’s homepage. You can edit this Markdown file to customize the content of your home page.
 
-### Configuring _config.yml
+#### Configuring _config.yml
 
 The _config.yml file is where you control most of your site’s settings. Here’s a basic configuration setup I used for JPHENRI.COM using [minima theme](https://github.com/jekyll/minima):
 
@@ -62,7 +62,7 @@ kramdown:
   input: GFM
 ```
 
-## Cheat Sheet: Common _config.yml Settings
+#### Cheat Sheet: Common _config.yml Settings
 Here’s a handy cheat sheet of common `_config.yml` settings that you can use to customize your Jekyll site:
 
 ```yaml
@@ -118,7 +118,7 @@ defaults:
       author: "Your Name"
 ```
 
-## How GitHub and ChatGPT Played a Role
+### How GitHub and ChatGPT Played a Role
 Throughout the process, GitHub and ChatGPT were invaluable tools. Here’s how I used them:
 
 #### Version Control with GitHub: 
