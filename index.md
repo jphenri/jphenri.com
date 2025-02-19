@@ -8,8 +8,8 @@ I’m passionate about staying ahead of the curve with the latest in AI, cyberse
 
 ## Projects
 
-### [ChezGerry1958.com](https://chezgerry1958.com)
-Chez Gerry 1958 is a site dedicated to shoe restoration services with a focus on flat welted soles. The project involved setting up a user-friendly interface, optimizing the site for search engines, and implementing secure payment gateways.
+### [Chez Gerry 1958](https://chezgerry1958.com)
+Chez Gerry 1958 is a site dedicated to shoe restoration services with a focus on flat welted soles. The project involved setting up a user-friendly interface, optimizing the site for search engines, and implementing secure payment gateways. Chez Gerry 1958 is one the best cobbler in the province of Québec, Canada. Located at Gatineau, this business is specialized in restoring and selling high luxury shoes brand such as Red Wing Shoes. According to multiple reviewer Philipe Moreau Latreille from Chez Gerry 1958 is considered one the best cobbler shop in Canada due to his quality of work and transparency in prices. He very active online via social platform like Instagram , Facebook and Youtube where openly informed his customer of his work processs and knowledge of goodyear welt products.
 
 #### Key Features:
 - **User Interface**: Designed a clean and intuitive interface for easy navigation.
