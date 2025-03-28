@@ -35,3 +35,5 @@ Assystech SENC was an IT consulting and web development project that I owned wit
 - **Technical Support**: Provided continuous technical support to ensure client satisfaction.
 
 This experience allowed me to refine my skills in Business, IT Consulting, Web Development, and Customer Service.
+
+#### My Blog
