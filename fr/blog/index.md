@@ -63,17 +63,10 @@ Chaque article est basé sur <strong>du réel, du terrain</strong> – ce que j'
 
 ---
 
-## 🇬🇧 Version anglaise
+## Version anglaise
 
 → Pour lire le blog anglais, rendez-vous ici :  
 **[Blog (EN)](/blog/)**
 
 ---
 
-### Comment les articles fonctionnent
-
-Tout article publié dans `_posts` avec :
-
-```yaml
-lang: fr
-layout: post
