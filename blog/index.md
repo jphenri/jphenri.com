@@ -64,10 +64,3 @@ Everything here is based on <strong>real-world work and lab experiments</strong>
 
 ---
 
-### How posts work
-
-Any file in `_posts` with:
-
-```yaml
-lang: en
-layout: post
