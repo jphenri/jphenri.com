@@ -17,7 +17,7 @@ Ici, je partage mes analyses, expériences et découvertes autour de :
 
 <ul>
   <li><strong>IA appliquée</strong> (PME, automatisation, outils pratiques)</li>
-  <li><strong>DevOps / TI</strong> (Intune, Trellix, Linux, sécurité)</li>
+  <li><strong>DevOps / TI</strong> (Intune, Linux, sécurité)</li>
   <li><strong>Home Lab</strong> (tests, Plex, gaming, distros)</li>
   <li><strong>Business 2.0</strong> (stratégie, transformation numérique)</li>
 </ul>
