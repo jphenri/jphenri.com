@@ -1,0 +1,45 @@
+en:
+  - key: home
+    title: "Home"
+    url: "/"
+  - key: business
+    title: "Business 2.0"
+    url: "/business/"
+  - key: devops
+    title: "DevOps / IT"
+    url: "/devops/"
+  - key: homelab
+    title: "Home Lab"
+    url: "/home-lab/"
+  - key: projects
+    title: "Projects"
+    url: "/projects/"
+  - key: blog
+    title: "Blog"
+    url: "/blog/"
+  - key: contact
+    title: "Contact"
+    url: "/contact/"
+
+fr:
+  - key: home
+    title: "Accueil"
+    url: "/fr/"
+  - key: business
+    title: "Business 2.0"
+    url: "/fr/business/"
+  - key: devops
+    title: "DevOps / TI"
+    url: "/fr/devops/"
+  - key: homelab
+    title: "Home Lab"
+    url: "/fr/home-lab/"
+  - key: projects
+    title: "Projets"
+    url: "/fr/projets/"
+  - key: blog
+    title: "Blog"
+    url: "/fr/blog/"
+  - key: contact
+    title: "Contact"
+    url: "/fr/contact/"
