@@ -1,3 +1,12 @@
+---
+layout: home
+title: "Home"
+nav_key: home
+lang: en
+fr_url: /fr/
+---
+
+<!-- Content is rendered by home layout -->
 
 Welcome to JPHENRI.COM! I'm JP and this is my website where I showcase various personal IT projects I'm working on. Below you’ll find details on some of the key projects.
 
