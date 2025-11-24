@@ -1,0 +1,20 @@
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="{% if page.lang == 'fr' %}/fr/{% else %}/{% endif %}" class="site-logo">
+      <span class="logo-mark">JP</span>
+      <span class="logo-text">jphenri<span>.ca</span></span>
+    </a>
+
+    {% include nav.html %}
+
+    <div class="lang-switcher">
+      {% if page.lang == 'fr' %}
+        <span class="lang current">FR</span>
+        <a href="{{ page.en_url | default: page.url | replace:'/fr','' }}" class="lang">EN</a>
+      {% else %}
+        <span class="lang current">EN</span>
+        <a href="{{ page.fr_url | default: '/fr/' }}" class="lang">FR</a>
+      {% endif %}
+    </div>
+  </div>
+</header>
