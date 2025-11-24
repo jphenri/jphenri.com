@@ -1,0 +1,15 @@
+{% assign current_lang = page.lang | default: site.lang %}
+{% assign nav_items = site.data.navigation[current_lang] %}
+
+<nav class="site-nav">
+  <ul>
+    {% for item in nav_items %}
+    <li>
+      <a href="{{ item.url | relative_url }}"
+         class="{% if page.nav_key == item.key %}is-active{% endif %}">
+        {{ item.title }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
