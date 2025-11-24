@@ -10,7 +10,7 @@ en_url: /devops/
 ## Zones de focus
 
 - Gestion poste de travail (Intune, SCCM hérité, hybride)
-- Outils de sécurité (Trellix, protection endpoint, monitoring)
+- Outils de sécurité (protection endpoint, monitoring)
 - Conformité et gestion du changement
 - Automatisation Linux (Ansible, lab, scripts)
 
