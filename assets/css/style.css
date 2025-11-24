@@ -57,6 +57,30 @@ a {
   border-bottom: 1px solid var(--border-subtle);
 }
 
+/* Fix — ensure blog-banner content is visible */
+.blog-banner {
+  display: block;
+  padding: 1.5rem 1.2rem !important;
+  min-height: auto !important;
+}
+
+.blog-banner h2,
+.blog-banner p,
+.blog-banner ul {
+  position: relative;
+  z-index: 2;
+}
+
+/* Fix the animated glow overlay height and layering */
+.blog-header-animated::after {
+  z-index: 1;
+}
+
+.blog-header-animated::before {
+  z-index: 0;
+}
+
+
 .site-header-inner {
   max-width: 1120px;
   margin: 0 auto;
