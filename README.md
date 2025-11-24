@@ -1,5 +1,5 @@
 
-Welcome to JPHENRI.COM! I'm JP and this is my website where I showcase various personal IT projects I'm working on. Below you’ll find details on some of the key projects.
+Welcome to JPHENRI.ca! I'm JP and this is my website where I showcase various personal IT projects I'm working on. Below you’ll find details on some of the key projects.
 
 ## About Me
 I'm an IT professional and project lead with a good background in systems management. Over the years, I’ve taken the helm of numerous projects, coordinating the deployment and management of complete computer fleets across Canada.
