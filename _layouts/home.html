@@ -57,6 +57,7 @@ layout: default
       {% if page.lang == 'fr' %}Voir l’approche{% else %}See the approach{% endif %}
     </a>
   </article>
+  
 
   <article class="card">
     <h2>DevOps / IT</h2>
@@ -72,17 +73,30 @@ layout: default
     </a>
   </article>
 
-  <article class="card">
-    <h2>Home Lab</h2>
-    <p>
-      {% if page.lang == 'fr' %}
-        servers, gaming, lab Kubernetes léger, distros Linux et expérimentations pour rester à jour et tester les idées Business 2.0.
-      {% else %}
-        servers, gaming, lightweight K8s lab, Linux distros and experiments to stay sharp and test Business 2.0 ideas.
-      {% endif %}
-    </p>
-    <a href="{% if page.lang == 'fr' %}/fr/home-lab/{% else %}/home-lab/{% endif %}" class="card-link">
-      {% if page.lang == 'fr' %}Voir le lab{% else %}See the lab{% endif %}
-    </a>
-  </article>
+<article class="card">
+  <h2>
+    {% if page.lang == 'fr' %}
+      Projet
+    {% else %}
+      Project
+    {% endif %}
+  </h2>
+
+  <p>
+    {% if page.lang == 'fr' %}
+      Mes projets réunissent transformation numérique pour PME, sites web rapides sur GitHub Pages, workflows IA, expérimentations TI et optimisation Business 2.0 appliquée au terrain.
+    {% else %}
+      My projects combine small business digital transformation, fast GitHub Pages websites, AI workflows, practical IT experimentation, and real-world Business 2.0 optimization.
+    {% endif %}
+  </p>
+
+  <a href="{% if page.lang == 'fr' %}/fr/projets/{% else %}/projects/{% endif %}" class="card-link">
+    {% if page.lang == 'fr' %}
+      Voir le projet
+    {% else %}
+      See the project
+    {% endif %}
+  </a>
+</article>
+
 </section>
