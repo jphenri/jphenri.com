@@ -17,7 +17,7 @@ Here I share notes, experiments and lessons learned around:
 
 <ul>
   <li><strong>Applied AI</strong> (for small businesses, automation, practical tools)</li>
-  <li><strong>DevOps / IT</strong> (Intune, Trellix, Linux, security)</li>
+  <li><strong>DevOps / IT</strong> (Intune, Linux, security)</li>
   <li><strong>Home Lab</strong> (lab tests, Plex, gaming, distros)</li>
   <li><strong>Business 2.0</strong> (strategy, digital transformation)</li>
 </ul>
