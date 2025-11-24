@@ -5,12 +5,6 @@ en:
   - key: business
     title: "Business 2.0"
     url: "/business/"
-  - key: devops
-    title: "DevOps / IT"
-    url: "/devops/"
-  - key: homelab
-    title: "Home Lab"
-    url: "/home-lab/"
   - key: projects
     title: "Projects"
     url: "/projects/"
@@ -28,12 +22,6 @@ fr:
   - key: business
     title: "Business 2.0"
     url: "/fr/business/"
-  - key: devops
-    title: "DevOps / TI"
-    url: "/fr/devops/"
-  - key: homelab
-    title: "Home Lab"
-    url: "/fr/home-lab/"
   - key: projects
     title: "Projets"
     url: "/fr/projets/"
