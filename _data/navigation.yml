@@ -4,16 +4,16 @@ en:
     url: "/"
   - key: business
     title: "Business 2.0"
-    url: "/business/"
+    url: "/#business"
   - key: projects
     title: "Projects"
-    url: "/projects/"
+    url: "/#projects"
   - key: blog
     title: "Blog"
-    url: "/blog/"
+    url: "/#blog"
   - key: contact
     title: "Contact"
-    url: "/contact/"
+    url: "/#contact"
 
 fr:
   - key: home
@@ -21,13 +21,13 @@ fr:
     url: "/fr/"
   - key: business
     title: "Business 2.0"
-    url: "/fr/business/"
+    url: "/fr/#business"
   - key: projects
     title: "Projets"
-    url: "/fr/projets/"
+    url: "/fr/#projects"
   - key: blog
     title: "Blog"
-    url: "/fr/blog/"
+    url: "/fr/#blog"
   - key: contact
     title: "Contact"
-    url: "/fr/contact/"
+    url: "/fr/#contact"
