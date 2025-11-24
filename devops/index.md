@@ -10,7 +10,7 @@ fr_url: /fr/devops/
 ## Focus areas
 
 - Endpoint management (Intune, legacy SCCM, hybrid)
-- Security tooling (Trellix, endpoint protection, monitoring)
+- Security tooling (endpoint protection, monitoring)
 - Compliance and change management
 - Linux automation (Ansible, lab, scripting)
 
