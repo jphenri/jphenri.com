@@ -9,18 +9,25 @@ fr_url: /fr/blog/
 
 <div class="blog-banner blog-header-animated">
 
-## 📝 Welcome to the Blog (EN)
+<h2>📝 Bienvenue sur le Blog (FR)</h2>
 
-Here I share my notes, experiments and lessons learned around:
+<p>
+Ici, je partage mes analyses, expériences et découvertes autour de :
+</p>
 
-- **Applied AI** (for small businesses, automation, practical tools)
-- **DevOps / IT** (Intune, Trellix, Linux, security)
-- **Home Lab** (lab tests, Plex, gaming, distros)
-- **Business 2.0** (strategy, digital transformation)
+<ul>
+  <li><strong>IA appliquée</strong> (PME, automatisation, outils pratiques)</li>
+  <li><strong>DevOps / TI</strong> (Intune, Trellix, Linux, sécurité)</li>
+  <li><strong>Home Lab</strong> (tests, Plex, gaming, distros)</li>
+  <li><strong>Business 2.0</strong> (stratégie, transformation numérique)</li>
+</ul>
 
-Everything here is based on **real-world work, labs and client projects**, not theory.
+<p>
+Chaque article est basé sur <strong>du réel, du terrain</strong> – ce que j'apprends dans mes projets, dans mon lab et dans mon travail.
+</p>
 
 </div>
+
 
 <section class="latest-posts">
   <h2>Latest posts</h2>
