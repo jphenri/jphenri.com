@@ -64,18 +64,30 @@ en_url: /
 <!-- 🔥 Ton contenu one-page actuel -->
 <section id="business" class="section">
   <h2>Business 2.0</h2>
+  <p class="section-lead">
+    Business 2.0, c’est ma façon d’utiliser la technologie pour aider des petites entreprises réelles,
+    sans usines à gaz ni buzzwords inutiles.
+  </p>
   <p>
-    <strong>Business 2.0</strong> est mon approche pour aider les PME à utiliser la technologie
-    d’une manière simple, durable et réaliste.
+    La plupart des PME n’ont pas besoin d’un nouveau “gros système”. Elles ont besoin de
+    <strong>clarifier leurs processus</strong>, de réduire le travail répétitif et de mieux voir
+    ce qui se passe dans leur entreprise. On part donc de la réalité : atelier, comptoir,
+    courriels, fichiers Excel, conversation avec les clients.
   </p>
   <ul>
-    <li>Compréhension terrain.</li>
-    <li>Automatisation ciblée et IA utile.</li>
-    <li>Processus humains et légers.</li>
-    <li>Mesure du concret.</li>
+    <li><strong>Comprendre le terrain</strong> : comment le travail se fait aujourd’hui, pas en théorie.</li>
+    <li><strong>Alléger avant d’ajouter</strong> : enlever la friction et le bruit avant d’ajouter de nouveaux outils.</li>
+    <li><strong>Automatiser là où ça compte</strong> : seulement si ça sauve réellement du temps ou diminue le risque.</li>
+    <li><strong>Utiliser l’IA comme assistant</strong> : pour le contenu, la doc, les décisions, pas pour remplacer les humains.</li>
+    <li><strong>Mesurer l’impact</strong> : temps gagné, erreurs réduites, clients mieux servis.</li>
   </ul>
+  <p>
+    Tout ce que je teste finit tôt ou tard dans un projet concret — souvent chez des commerces locaux
+    comme ceux présentés ci-dessous.
+  </p>
 </section>
 
+**
 <section id="projects" class="section">
   <h2>Projets</h2>
   <p class="section-lead">
@@ -121,7 +133,7 @@ en_url: /
     </article>
 
   </section>
-</section>
+</section>**
 
 <section id="blog" class="section">
   <h2>Blog</h2>
@@ -143,9 +155,21 @@ en_url: /
 
 <section id="contact" class="section section-contact">
   <h2>Contact</h2>
-  <p>Pour discuter d’un projet :</p>
+  <p class="section-lead">
+    Vous avez une idée ou un projet, mais vous ne savez pas par où commencer ?
+  </p>
+  <p>
+    Je m’intéresse particulièrement aux petites entreprises, aux projets locaux et aux équipes
+    qui veulent moderniser leurs opérations sans perdre leur identité. On peut commencer par
+    une simple discussion pour clarifier votre contexte.
+  </p>
   <ul>
-    <li>📧 <a href="mailto:contact@jphenri.ca">contact@jphenri.ca</a></li>
-    <li>🔗 LinkedIn : (ajoute ton lien)</li>
+    <li>📧 Courriel : <a href="mailto:contact@jphenri.ca">contact@jphenri.ca</a></li>
+    <li>🔗 LinkedIn : (ajoutez votre lien ici)</li>
   </ul>
+  <p>
+    Vous n’avez pas besoin d’un cahier de charges complet. Quelques lignes sur qui vous êtes,
+    ce que vous faites et ce qui bloque en ce moment suffisent pour démarrer.
+  </p>
 </section>
+
