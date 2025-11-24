@@ -7,8 +7,21 @@ lang: fr
 en_url: /blog/
 ---
 
-Bienvenue sur la section **Blog (FR)**.  
-Vous trouverez ici mes articles techniques en français : IA, DevOps, Home Lab, automatisation, sécurité, et notes pratiques pour PME.
+<div class="blog-banner">
+
+## 📝 Bienvenue sur le Blog (FR)
+
+Ici, je partage mes analyses, expériences et découvertes autour de :
+
+- **IA appliquée** (PME, automatisation, outils pratiques)
+- **DevOps / TI** (Intune, Linux, sécurité)
+- **Home Lab** (tests, lab, gaming, distros)
+- **Business 2.0** (stratégie, transformation numérique)
+
+Chaque article est basé sur :  
+**du réel, du terrain, et ce que j'expérimente dans mes projets ou au travail.**
+
+</div>
 
 ---
 
