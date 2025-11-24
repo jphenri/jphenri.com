@@ -9,21 +9,21 @@ fr_url: /fr/blog/
 
 <div class="blog-banner blog-header-animated">
 
-<h2>📝 Bienvenue sur le Blog (FR)</h2>
+<h2>📝 Welcome to the Blog (EN)</h2>
 
 <p>
-Ici, je partage mes analyses, expériences et découvertes autour de :
+Here I share notes, experiments and lessons learned around:
 </p>
 
 <ul>
-  <li><strong>IA appliquée</strong> (PME, automatisation, outils pratiques)</li>
-  <li><strong>DevOps / TI</strong> (Intune, Trellix, Linux, sécurité)</li>
-  <li><strong>Home Lab</strong> (tests, Plex, gaming, distros)</li>
-  <li><strong>Business 2.0</strong> (stratégie, transformation numérique)</li>
+  <li><strong>Applied AI</strong> (for small businesses, automation, practical tools)</li>
+  <li><strong>DevOps / IT</strong> (Intune, Trellix, Linux, security)</li>
+  <li><strong>Home Lab</strong> (lab tests, Plex, gaming, distros)</li>
+  <li><strong>Business 2.0</strong> (strategy, digital transformation)</li>
 </ul>
 
 <p>
-Chaque article est basé sur <strong>du réel, du terrain</strong> – ce que j'apprends dans mes projets, dans mon lab et dans mon travail.
+Everything here is based on <strong>real-world work and lab experiments</strong> – not theory.
 </p>
 
 </div>
