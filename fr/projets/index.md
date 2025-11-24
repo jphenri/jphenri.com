@@ -1,78 +1,79 @@
 ---
 layout: page
 title: "Projets"
-subtitle: "Sélection de projets TI, IA et Business 2.0"
+subtitle: "Projets techniques, web et Business 2.0 développés au fil des années"
 nav_key: projects
 lang: fr
 en_url: /projects/
 ---
 
-## À quoi sert cette page
+## 🧠 Projets TI & Business 2.0
 
-Un portfolio vivant des projets qui représentent le mieux ma façon de travailler :
+### [Chez Gerry 1958](https://chezgerry1958.com)
+Chez Gerry 1958 est une cordonnerie haut de gamme située à Gatineau, spécialisée dans la restauration de chaussures de luxe et les souliers Goodyear Welt.  
+Le projet consiste à bâtir un écosystème numérique complet : site web, SEO, contenu vidéo, fiches produits/services et optimisation pour les moteurs de recherche et les moteurs IA.
 
-- expérimentation Business 2.0,
-- TI / home lab,
-- workflows IA réutilisables,
-- projets web simples mais efficaces.
+Grâce à la transparence du travail montré (before/after), la marque est aujourd’hui considérée comme l’une des meilleures cordonneries de la province.
 
----
-
-## 🧠 Business 2.0 & petites entreprises
-
-### Chez Gerry 1958 – laboratoire PME réel
-URL : https://chezgerry1958.com  
-
-Transformation numérique appliquée à un commerce local réel (Gatineau).
+#### **Fonctionnalités clés**
+- **Interface Optimisée** : Navigation claire, photos avant/après mises en valeur.  
+- **SEO & Données Structurées** : Local SEO, schema, contenu structuré.  
+- **Stratégie de Contenu** : Reels, Shorts, YouTube — éducation + storytelling.  
+- **Positionnement** : Reconnu comme un des meilleurs cordonniers au Québec.
 
 ---
 
-### Chuck’s Casse-Croûte – site web simple et efficace
-URL : https://chucks-casse-croute.com  
+### [Chuck’s Casse-Croute](https://chucks-casse-croute.com)
+Site web simple, rapide et sans maintenance, créé avec GitHub Pages pour un casse-croûte local.  
+C’est un excellent exemple de site statique **léger, rapide et adapté à une petite entreprise**.
 
-**Type :** Site GitHub Pages léger · Identité de marque  
-**Statut :** Fini (version 1)
-
-Création d’un site ultra-simple pour :
-
-- donner une présence web immédiate,  
-- présenter le casse-croûte et sa personnalité,  
-- fournir une URL claire et facile à partager,  
-- rester léger, rapide et facile à maintenir.
-
-C’est un bon exemple de ce qu’on peut faire **sans CMS**,  
-tout en gardant une apparence fiable et cohérente.
+#### **Fonctionnalités clés**
+- **Site Ultra Légère** : Aucune base de données, aucun CMS.  
+- **Identité Visuelle Simple** : Page claire, mobile first.  
+- **Évolutif** : Possibilité d’ajouter menu, photos, heures, localisation.
 
 ---
 
-## 🖥️ TI & Home Lab
+### [Pronatureqc.com (2015–2018)](https://web.archive.org/web/20171012223444/https://www.pronatureqc.com/)
+Site e-commerce complet pour produits de chasse et plein air.  
+J’ai conçu la plateforme, optimisé les performances et structuré le contenu produit.
 
-### Home lab – environnement d’essai quotidien
-
-Un espace rapide pour tester config, Linux, workflows, automatisation légère, etc.
-
----
-
-## 🤖 Workflows IA & automatisation
-
-### Contenu assisté par IA pour PME
-
-- workflow “Podcast vers contenu”,  
-- FAQ / pages services générées,  
-- contenu structuré pour moteurs classiques et IA,  
-- documentation interne assistée.
+#### **Fonctionnalités clés**
+- **E-Commerce** : Catalogue large, paiement sécurisé, gestion inventaire.  
+- **SEO** : Amélioration du classement et du trafic organique.  
+- **Gestion de Contenu** : Textes, photos, fiches produits alignées à la marque.
 
 ---
 
-## 🌐 Web & contenu technique
+### [Assystech SENC (2015–2019)](https://web.archive.org/web/20181229095915/https://assystech.com/)
+Entreprise de consultation TI et développement web que j’ai cofondée.  
+Mandat principal : améliorer l’infrastructure TI, créer des sites web et accompagner les PME dans leur transformation numérique.
 
-### Sites statiques GitHub Pages + Jekyll
-
-Modèles réutilisables pour lancer rapidement des sites simples et professionnels.
+#### **Fonctionnalités clés**
+- **Consultation TI** : Optimisation d’infrastructure et conseils stratégiques.  
+- **Développement Web** : Sites sur mesure, performants et faciles à maintenir.  
+- **Support Technique** : Suivi continu et assistance aux entreprises.
 
 ---
 
-## 📌 Prochaines étapes
+### [jphenri.ca](https://jphenri.ca)
+Site personnel hébergé sur GitHub Pages servant de hub de connaissances bilingue.  
+C’est mon laboratoire pour tester : workflows AI, rédaction technique, contenus EN/FR, design Jekyll custom.
 
-Plus de contenu bilingue, plus de workflows IA adaptés aux PME,  
-et plus de liens concrets entre le lab technique et les besoins réels des entreprises locales.
+#### **Fonctionnalités clés**
+- **Structure Bilingue EN/FR**  
+- **Thème Jekyll sur mesure**  
+- **Contenu optimisé pour moteurs classiques & IA**  
+- **Workflow GitHub propre et versionné**
+
+---
+
+### Home Lab & Workflows IA
+Ensemble de tests et d’expérimentations portant sur :
+
+- Linux  
+- automatisation  
+- documentation légère  
+- workflows pour PME  
+
+Ces projets soutiennent des cas réels de transformation numérique dans des petites entreprises.
