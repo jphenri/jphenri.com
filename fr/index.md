@@ -41,13 +41,11 @@ en_url: /
   </article>
 
   <article class="card">
-    <h2>DevOps / IT</h2>
-    <p>
-      Gestion poste de travail, Intune, automatisation Linux
-      et bonnes pratiques de conformité pour environnements complexes.
-    </p>
-    <a href="#projects" class="card-link">Voir les sujets</a>
-  </article>
+  <h2>Automatisation des réseaux sociaux</h2>
+  <p>Automatisation des vidéos TikTok, YouTube Shorts, Facebook/Instagram Reels et meilleures pratiques de conformité.</p>
+  <a href="#projects" class="card-link">Voir les sujets</a>
+</article>
+
 
   <article class="card">
     <h2>Projet</h2>
@@ -164,8 +162,7 @@ en_url: /
     une simple discussion pour clarifier votre contexte.
   </p>
   <ul>
-    <li>📧 Courriel : <a href="mailto:contact@jphenri.ca">contact@jphenri.ca</a></li>
-    <li>🔗 LinkedIn : (ajoutez votre lien ici)</li>
+    <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/jphenriIT/">LinkedIn</a></li>
   </ul>
   <p>
     Vous n’avez pas besoin d’un cahier de charges complet. Quelques lignes sur qui vous êtes,
