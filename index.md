@@ -31,13 +31,13 @@ fr_url: /fr/
 
   <article class="card">
     <h2>Business 2.0 for SMEs</h2>
-    <p>Digital diagnostics, automation, generative AI and process optimization.</p>
+    <p>Digital diagnostics, generative AI and process optimization.</p>
     <a href="#business" class="card-link">See the approach</a>
   </article>
 
   <article class="card">
-    <h2>DevOps / IT</h2>
-    <p>Endpoint management, Linux automation and compliance best practices.</p>
+    <h2>Social media automation</h2>
+    <p>Tiktok, Youtube shorts, Facebook/Instagram reel automation and compliance best practices.</p>
     <a href="#projects" class="card-link">View topics</a>
   </article>
 
@@ -192,8 +192,7 @@ fr_url: /fr/
     the first step is understanding your reality.
   </p>
   <ul>
-    <li>📧 Email: <a href="mailto:contact@jphenri.ca">contact@jphenri.ca</a></li>
-    <li>🔗 LinkedIn: (add your link here)</li>
+    <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/jphenriIT/">LinkedIn</a></li>
   </ul>
   <p>
     You don’t need a full brief. A few lines about who you are, what you do and what’s blocking you
