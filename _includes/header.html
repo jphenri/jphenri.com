@@ -1,20 +1,23 @@
 <header class="site-header">
-  <div class="site-header-inner">
-    <a href="{% if page.lang == 'fr' %}/fr/{% else %}/{% endif %}" class="site-logo">
-      <span class="logo-mark">JP</span>
-      <span class="logo-text">jphenri<span>.ca</span></span>
+  <div class="container header-inner">
+    <a href="{{ '/' | relative_url }}" class="site-brand">
+      <img
+        src="{{ '/assets/images/logo-redwing-canada.png' | relative_url }}"
+        alt="Bottes Red Wing Canada – Chez Gerry 1958"
+        class="site-logo"
+      >
+      <span class="site-title">
+        Bottes Red Wing Canada
+      </span>
     </a>
 
-    {% include nav.html %}
-
-    <div class="lang-switcher">
-      {% if page.lang == 'fr' %}
-        <span class="lang current">FR</span>
-        <a href="{{ page.en_url | default: page.url | replace:'/fr','' }}" class="lang">EN</a>
-      {% else %}
-        <span class="lang current">EN</span>
-        <a href="{{ page.fr_url | default: '/fr/' }}" class="lang">FR</a>
-      {% endif %}
-    </div>
+    <nav class="site-nav">
+      <a href="{{ '/' | relative_url }}">Accueil</a>
+      <a href="{{ '/red-wing-canada/' | relative_url }}">Red Wing Canada</a>
+      <a href="{{ '/blog/' | relative_url }}">Blog</a>
+      <a href="https://chezgerry1958.com" target="_blank" rel="noopener">
+        ChezGerry1958.com
+      </a>
+    </nav>
   </div>
 </header>
